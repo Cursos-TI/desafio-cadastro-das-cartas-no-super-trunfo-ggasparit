@@ -21,25 +21,25 @@ int main() {
     printf("População: ");
     scanf("%d", &populacao1);
 
-    printf("Área (em km²): ");
+    printf("Área: ");
     scanf("%f", &area1);
 
-    printf("PIB (em bilhões de reais): ");
+    printf("PIB: ");
     scanf("%f", &pib1);
 
     printf("Número de Pontos Turísticos: ");
     scanf("%d", &pontosTuristicos1);
 
     // Leitura dos dados da segunda carta
-    printf("\nCarta 2:\n");
+    printf("Carta 2:\n");
    
     printf("População: ");
     scanf("%d", &populacao2);
 
-    printf("Área (em km²): ");
+    printf("Área: ");
     scanf("%f", &area2);
 
-    printf("PIB (em bilhões de reais): ");
+    printf("PIB: ");
     scanf("%f", &pib2);
 
     printf("Número de Pontos Turísticos: ");
